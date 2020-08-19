@@ -11,4 +11,6 @@ window.cookieconsent.initialise({
     },
 
     return:
+Clipboard
+
   });
