@@ -1,0 +1,78 @@
+* {
+  font-family: "Segoe UI";
+  font-weight: 200;
+}
+body {
+  background:white;
+}
+
+nav{
+  justify-content: center;
+  margin: auto;
+  width: 40%; 
+
+}
+
+.spotify{
+  color:black;
+  justify-content: center;
+  margin: auto;
+  width: 40%; 
+}
+
+h1 {
+  color:black;
+  justify-content: center;
+  margin: auto;
+  width: 40%;
+}
+h2 {
+  color:black;
+  justify-content: center;
+  margin: auto;
+  width: 40%;
+}
+h3 {
+  color:black;
+}
+
+.yellowt_f{
+  color:black;
+}
+
+p{
+  color:black;
+}
+
+div {
+  justify-content: center;
+  color:black;
+  justify-content: center;
+  margin: auto;
+  width: 40%;
+
+
+
+}
+button {
+  padding: 10px;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  border: none;
+  border-radius: 3px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+  font-size: 1em;
+}
+button:hover {
+  background: rgb(45, 50, 102);
+  color: rgb(255, 255, 255);
+}
+
+footer{
+  justify-content: center;
+  margin: auto;
+  width: 40%;
+}
